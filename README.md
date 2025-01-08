@@ -1,12 +1,23 @@
-# **Summer 2024 SoCal Data Science - Exploring the Distinctions Between Mild Cognitive Impairment and Alzheimer’s Disease - Group 5**
+<h1>Ted Yoon's Portfolio! <br/><a href="https://github.com/fiorented">Recent Graduate</a>, <a href="https://github.com/fiorented">Data Analyst</a></h1>
 
-##### Authors: Julia Eng, Kent Tran, Olivia Willard, Ted Yoon, Wesley Zeng, Yen Phuong Lam, Yvette Vargas
+<h2>👨‍💻 Data Science Projects:</h2>
 
-With data on patients across different cognition levels, our research aims to distinguish between
-Mild Cognitive Impairment (MCI) and Alzheimer’s Disease (AD) patients through predictive modeling. By leveraging easily accessible data from neuropsychological tests, depression and behavioral
-surveys, and demographic information—compared to more complex and costly methods like MRI
-scans and biomarkers—we seek to develop robust and easier diagnosis methods.
+- <b>Distinction between Mild Cognitive Impairment and Alzheimer's Disease using Data Science</b>
+  - [Team Project Poster](https://github.com/fiorented)
+- <b>More Project</b>
+  - [Evidence] (link)
 
-Through this approach, we strive to enhance the early detection and accurate diagnoses of MCI
-and Alzheimer’s Disease—ultimately improving patient outcomes and aiding in the management
-of this debilitating condition.
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/ted-yoon-3507a8172/
+
+<!--
+- 🔭 I’m currently working on building my portfolio
+- 🌱 I’m currently learning SQL
+- 👯 I’m looking to collaborate on data science or data analysis projects
+- 🤔 I’m looking for help with finding a suitable job
+- 📫 How to reach me: amicidited99@gmail.com
+- ⚡ Fun fact: I enjoy playing golf and badminton
+-->
