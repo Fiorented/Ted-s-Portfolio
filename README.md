@@ -4,8 +4,7 @@
 
 - <b>Distinction between Mild Cognitive Impairment and Alzheimer's Disease using Data Science</b>
   - [Team Project Poster](https://github.com/fiorented)
-- <b>More Project</b>
-  - [Evidence] (link)
+- <b>More Projects TBD</b>
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -17,7 +16,7 @@
 - 🔭 I’m currently working on building my portfolio
 - 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on data science or data analysis projects
-- 🤔 I’m looking for help with finding a suitable job
+- 🤔 I’m looking for help with finding a suitable job and fun projects
 - 📫 How to reach me: amicidited99@gmail.com
 - ⚡ Fun fact: I enjoy playing golf and badminton
 -->
