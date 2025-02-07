@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Distinction between Mild Cognitive Impairment and Alzheimer's Disease using Data Science</b>
-  - [Team Project Poster]([https://github.com/fiorented](https://github.com/Fiorented/Ted-s-Portfolio/blob/main/Team_5_Alzheimer_s_Research.pdf))
+  - [Team Project Poster](https://github.com/Fiorented/Ted-s-Portfolio/blob/main/Team_5_Alzheimer_s_Research.pdf)
 - <b>More Projects TBD</b>
 
 <h2> 🤳 Connect with me:</h2>
